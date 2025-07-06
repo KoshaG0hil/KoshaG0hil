@@ -14,14 +14,6 @@ Here’s a glimpse into my work across **Cloud Security**, **Infrastructure Auto
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛒 **ElasticCloud** – Serverless backend for high-traffic e-commerce built with AWS Lambda, API Gateway, DynamoDB, and Cognito. Achieved **99.99% uptime** and reduced costs by **30%**.
-
-- 🛡️ **SentinelML** – Machine learning-based intrusion detection system deployed on AWS SageMaker. Improved detection accuracy by **35%** and reduced false positives by **25%**.
-
----
-
 ## 🛠️ Tools & Tech
 
 **☁️ Cloud Platforms**  
