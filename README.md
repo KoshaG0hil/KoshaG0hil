@@ -9,11 +9,11 @@
 
 ## 🧠 About Me
 
-I am a Devops Engineer with 2+ years of professional experience designing, securing, and automating AWS cloud environments. Skilled in troubleshooting complex cloud-native infrastructures, optimizing infrastructure with Terraform and shell scripting, and securing systems through IAM policy refinement and threat modeling.
+I am a Devops Engineer with 3+ years of professional experience designing, securing, and automating AWS cloud environments. Skilled in troubleshooting complex cloud-native infrastructures, optimizing infrastructure with Terraform and shell scripting, and securing systems through IAM policy refinement and threat modeling.
 
 Certified as AWS Solutions Architect – Associate and CompTIA Security+, I specialize in building scalable, secure systems with a strong emphasis on **cloud security**, **DevSecOps**, and **CI/CD pipeline automation**. I have hands-on experience deploying serverless applications, securing VPN solutions, and conducting deep network diagnostics using tools like Wireshark and Nmap.
 
-Currently seeking challenging roles in **Cloud Engineering**, **DevSecOps**, or **Security Engineering** at FAANG or leading tech companies to drive impactful cloud and security solutions.
+Currently seeking challenging roles in **Cloud Engineering**, **DevSecOps**, or **Security Engineering** at leading tech companies to drive impactful cloud and security solutions.
 
 ---
 
