@@ -1,61 +1,55 @@
-# 👋 Hello, I’m **Kosha Rajesh Gohil**
+# 👋 Hello, I'm **Kosha Rajesh Gohil**
 
-### 🔐 Hashicorp Terraform - Associate | 🚀 AWS Solutions Architect – Associate | 🎓 AWS Cloud Practitioner | 🛡️ CompTIA Security+ | 🌐 Cisco CCNA  
-💻 Terraform • Python • DevSecOps
+### 📜 HashiCorp Terraform Associate | ☁️ AWS Solutions Architect – Associate | 🛡️ AWS Security Specialty | 🔐 CompTIA Security+ | 🌐 Cisco CCNA  
+**Terraform · Python · DevSecOps · AWS Cloud Architecture**
 
-🎯 **Aspiring Devops Engineer | Cybersecurity-Focused Infrastructure Automation Expert**
+**Cloud & DevSecOps Engineer | Cybersecurity-Focused Infrastructure Automation Expert**
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-I am a Devops Engineer with 3+ years of professional experience designing, securing, and automating AWS cloud environments. Skilled in troubleshooting complex cloud-native infrastructures, optimizing infrastructure with Terraform and shell scripting, and securing systems through IAM policy refinement and threat modeling.
+I am a Cloud & DevSecOps Engineer with 3+ years of professional experience designing, securing, and automating AWS cloud environments. Skilled in troubleshooting complex cloud-native infrastructures, codifying infrastructure with Terraform, and securing distributed systems through IAM least-privilege governance, Policy-as-Code, and automated rollback pipelines.
 
-Certified as AWS Solutions Architect – Associate and CompTIA Security+, I specialize in building scalable, secure systems with a strong emphasis on **cloud security**, **DevSecOps**, and **CI/CD pipeline automation**. I have hands-on experience deploying serverless applications, securing VPN solutions, and conducting deep network diagnostics using tools like Wireshark and Nmap.
+Certified as an **AWS Solutions Architect – Associate**, **AWS Security Specialist**, and **CompTIA Security+**, I specialize in building scalable, secure systems with a strong emphasis on **cloud security**, **DevSecOps**, and **CI/CD pipeline automation**.
 
-Currently seeking challenging roles in **Cloud Engineering**, **DevSecOps**, or **Security Engineering** at leading tech companies to drive impactful cloud and security solutions.
+Currently seeking challenging roles in **Cloud Engineering**, **DevSecOps**, or **Cloud Security Engineering** to drive impactful cloud and security solutions.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-### ☁️ Cloud & DevOps  
-AWS (EC2, API Gateway, Load Balancer, DynamoDB, Redshift, Aurora), Terraform, Kubernetes, Docker, CI/CD, Git, Linux/Unix, Shell Scripting
-
-### 💻 Programming  
-Python, Bash, JavaScript, PowerShell
-
-### 🔐 Security  
-IAM, Splunk, Snort, Burp Suite, Metasploit, Nessus, OpenVAS, Kali Linux
-
-### 🌐 Networking  
-Wireshark, Nmap, NetFlow, Tcpdump, Cisco Packet Tracer
-
-### 📦 Databases  
-MySQL, PostgreSQL, Oracle, MongoDB, Redis
+- **Cloud & DevOps**: AWS (ECS Fargate, ECR, ALB, Lambda, API Gateway, DynamoDB, S3, VPC, CloudFront, Route53), Terraform, Kubernetes, Docker, GitHub Actions, CI/CD, Linux/Unix, Bash, Ansible.
+- **Security & Governance**: IAM Least Privilege, CIS AWS Foundations Benchmark, OPA Rego Policies, Trivy, Hadolint, Gitleaks, Bandit SAST, Splunk, Snort, Wireshark.
+- **Programming & Scripting**: Python, Bash, PowerShell, SQL.
+- **Networking**: VPC Peering, Transit Gateway, Route Tables, NAT Gateways, VPC Flow Logs, Wireshark, Nmap, TCP/IP.
 
 ---
 
-## 📚 Selected Projects
+## 🚀 Featured Flagship Projects
 
-### 🔒 SecureAccessVPN — Enterprise VPN & Access Control Setup  
-Deployed secure remote access infrastructure with pfSense and Cisco VPN, implementing IP whitelisting, certificate-based authentication, and 2FA. Configured firewall policies and site-to-site tunnels across regions.  
-→ Reduced unauthorized access attempts by 50% and enhanced secure onboarding for distributed teams.
+### 🔒 [Secure CI/CD & Infrastructure Automation Pipeline](https://github.com/KoshaG0hil/Secure-CICD-Infrastructure-Automation-Pipeline)
+Engineered an enterprise security-focused CI/CD pipeline integrating shift-left source validation (SAST, secret scanning, dependency audit), CIS AWS-compliant Terraform IaC, environment approval gates, and an automated canary rollback controller restoring service stability in `< 2.0s`.
 
-### 🛡️ Serverless Virus Scanner — Lambda + ClamAV + S3 + DynamoDB  
-Built a serverless file upload and virus scanning pipeline using AWS Lambda with a custom ClamAV layer. Clean files are stored securely; infected files are quarantined. Logs are saved in DynamoDB, and alerts are triggered via SNS.  
-→ Automated threat detection and improved security posture for file uploads.
+### 🛡️ [Automated IAM Governance Engine](https://github.com/KoshaG0hil/Automated-IAM-Governance-Engine)
+Automated AWS IAM governance platform performing continuous drift detection, unused credential pruning, least-privilege analysis, and self-healing automated remediation against CIS AWS benchmarks.
 
+### 🦠 [Serverless Virus Scanning System](https://github.com/KoshaG0hil/serverless-virus-scanning-system)
+High-throughput serverless malware scanning pipeline using AWS Lambda, ClamAV virus definitions, Amazon S3 event notifications, and DynamoDB audit logging with automated SNS alerts.
 
----
-
-## 📫 Connect with Me
-
-📍 New York, USA  
-📍 Pune , Maharashtra ,India 
-📧 [gohilkosha@gmail.com](mailto:gohilkosha@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kosha-gohil)  
+### 🌐 [Bastionless CIS Linux Hardening](https://github.com/KoshaG0hil/Project-2-linux-hardening)
+Automated CIS Linux server hardening and bastionless infrastructure provisioning using Ansible and Terraform over AWS Systems Manager (SSM) VPC Endpoints.
 
 ---
 
-*Passionate about driving cloud security and infrastructure excellence in high-impact environments.* 🚀
+## 📬 Connect with Me
+
+- 📍 **Location**: New York, USA
+- 💼 **Portfolio**: [koshag0hil.github.io/Portfolio](https://koshag0hil.github.io/Portfolio/)
+- 📧 **Email**: [gohilkosha19@gmail.com](mailto:gohilkosha19@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/koshagohil](https://www.linkedin.com/in/koshagohil/)
+- 🐙 **GitHub**: [@KoshaG0hil](https://github.com/KoshaG0hil)
+
+---
+
+*Passionate about driving cloud security and infrastructure excellence in high-impact environments.*
