@@ -34,8 +34,8 @@ Engineered an enterprise security-focused CI/CD pipeline integrating shift-left 
 ### 🛡️ [Automated IAM Governance Engine](https://github.com/KoshaG0hil/Automated-IAM-Governance-Engine)
 Automated AWS IAM governance platform performing continuous drift detection, unused credential pruning, least-privilege analysis, and self-healing automated remediation against CIS AWS benchmarks.
 
-### 🏥 [SAMYA — Cloud-Native Health Management Platform](https://github.com/KoshaG0hil/healthrx)
-Architected a cloud-native healthcare ecosystem with Docker, secure REST APIs, role-based access control (RBAC), AI-powered wellness guidance, and healthcare data protection aligned with HIPAA and DPDP principles.
+### 🏥 [SAMYA — Cloud-Native Health Management Platform](https://samya.online) ([Source Code](https://github.com/KoshaG0hil/healthrx))
+Architected a cloud-native healthcare ecosystem with Docker, secure REST APIs, role-based access control (RBAC), AI-powered wellness guidance, and healthcare data protection aligned with HIPAA and DPDP principles. Live platform at [samya.online](https://samya.online).
 
 ### 🦠 [Serverless Virus Scanning System](https://github.com/KoshaG0hil/serverless-virus-scanning-system)
 High-throughput serverless malware scanning pipeline using AWS Lambda, ClamAV virus definitions, Amazon S3 event notifications, and DynamoDB audit logging with automated SNS alerts.
