@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Cloud & DevSecOps Engineer with 3+ years of professional experience designing, securing, and automating AWS cloud environments. Skilled in troubleshooting complex cloud-native infrastructures, codifying infrastructure with Terraform, and securing distributed systems through IAM least-privilege governance, Policy-as-Code, and automated rollback pipelines.
+I am a Cloud Security Engineer with 2+ years of professional experience designing, securing, and automating AWS cloud environments. Skilled in troubleshooting complex cloud-native infrastructures, codifying infrastructure with Terraform, and securing distributed systems through IAM least-privilege governance, Policy-as-Code, and automated rollback pipelines.
 
 Certified as an **AWS Solutions Architect – Associate**, **AWS Security Specialist**, and **CompTIA Security+**, I specialize in building scalable, secure systems with a strong emphasis on **cloud security**, **DevSecOps**, and **CI/CD pipeline automation**.
 
