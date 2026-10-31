@@ -33,7 +33,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
 - ⚙️ **Production Experience**: Hands-on ownership of production AWS infrastructure, Kubernetes workloads, and observability stacks for a **HIPAA-regulated healthcare platform** (supporting zero-downtime blue/green cutovers for 400-500 daily eRx transactions).
 - 🧱 **Security Engineering Mindset**: Replacing fragile manual checklists with codified, auditable security guardrails using **Terraform**, **Open Policy Agent (OPA Rego)**, **Checkov**, **EventBridge**, and **Cloud Run/Lambda**.
 - 🎓 **Education & Certifications**: 
-  - **M.S. in Computer Science** — Pace University, New York (GPA: 3.91 / 4.0)
+  - **M.S. in Computer Science** — Pace University, New York
   - **B.E. in Computer Engineering** — Savitribai Phule Pune University
   - AWS Certified Solutions Architect (Associate) · AWS Certified Security (Specialty) · CompTIA Security+ · HashiCorp Terraform Associate · Cisco CCNA
 
