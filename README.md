@@ -3,7 +3,7 @@
   <h1>👋 Hi, I'm <span style="color:#6366f1;">Kosha Rajesh Gohil</span></h1>
   
   <p align="center">
-    <strong>Cloud & DevSecOps Engineer · Infrastructure Security & Automation Specialist</strong><br/>
+    <strong>Cloud & DevSecOps Engineer · Infrastructure Security & SRE Specialist</strong><br/>
     <em>New York, USA</em>
   </p>
 
@@ -29,9 +29,34 @@
 
 I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experience designing, hardening, and automating multi-cloud architectures. My work centers on **Zero-Trust infrastructure**, **IAM least-privilege governance**, **Policy-as-Code**, and **automated continuous compliance**.
 
-- 🔭 **Core Focus**: Shift-Left Security, Cloud Security Posture Management (CSPM), Automated Rollback CI/CD, Container Runtime Defense.
-- ⚙️ **Production Mindset**: Replacing fragile manual checklists with self-healing, codified security guardrails (Terraform + OPA Rego + EventBridge + Lambda/Cloud Run).
-- 🎓 **Certifications**: AWS Certified Solutions Architect (Associate), AWS Certified Security (Specialty), CompTIA Security+, HashiCorp Terraform Associate, Cisco CCNA.
+- 🔭 **Current Focus**: Architecting self-healing infrastructure, Shift-Left DevSecOps gates, and AI-accelerated security triage workflows.
+- ⚙️ **Production Experience**: Hands-on ownership of production AWS infrastructure, Kubernetes workloads, and observability stacks for a **HIPAA-regulated healthcare platform** (supporting zero-downtime blue/green cutovers for 400-500 daily eRx transactions).
+- 🧱 **Security Engineering Mindset**: Replacing fragile manual checklists with codified, auditable security guardrails using **Terraform**, **Open Policy Agent (OPA Rego)**, **Checkov**, **EventBridge**, and **Cloud Run/Lambda**.
+- 🎓 **Education & Certifications**: 
+  - **M.S. in Computer Science** — Pace University, New York (GPA: 3.91 / 4.0)
+  - **B.E. in Computer Engineering** — Savitribai Phule Pune University
+  - AWS Certified Solutions Architect (Associate) · AWS Certified Security (Specialty) · CompTIA Security+ · HashiCorp Terraform Associate · Cisco CCNA
+
+---
+
+### 💼 What I Bring to an Engineering Team
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🔒 Cloud Security & Governance</h4>
+      <p>Automated IAM least-privilege baselines, 14+ privilege escalation signatures, continuous CloudTrail drift detection, CIS AWS Foundations Benchmark compliance, and zero-standing privilege architectures.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🚀 DevSecOps & CI/CD</h4>
+      <p>Multi-stage automated pipelines (GitHub Actions, Jenkins) embedding SAST (Bandit), secret leak detection (Gitleaks), container CVE auditing (Trivy), and automated canary rollback controllers with &lt; 2.0s MTTR.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📈 Reliability & Observability (SRE)</h4>
+      <p>Production SLI/SLO definitions, error budget governance, multi-AZ high availability, and Prometheus / Grafana / Loki / CloudWatch telemetry reducing incident MTTR by ~40%.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,7 +67,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
     <td width="25%" valign="top">
       <h4>☁️ Cloud Platforms</h4>
       <ul>
-        <li>AWS (ECS, Lambda, S3, IAM, CloudTrail, EventBridge, VPC, ALB, WAF, GuardDuty, KMS)</li>
+        <li>AWS (ECS Fargate, Lambda, S3, IAM, CloudTrail, EventBridge, VPC, ALB, WAF, GuardDuty, KMS, RDS)</li>
         <li>Google Cloud (Cloud Run, GCS, Eventarc, Pub/Sub, Firestore)</li>
       </ul>
     </td>
@@ -54,6 +79,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
         <li>Policy-as-Code (OPA Rego, Checkov)</li>
         <li>SAST & Secrets (Bandit, Trivy, Gitleaks)</li>
         <li>ClamAV Malware Scanning</li>
+        <li>HIPAA & NIST CSF Controls</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -61,9 +87,9 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
       <ul>
         <li>Terraform (Modular IaC)</li>
         <li>Docker & Container Sandboxing</li>
-        <li>Kubernetes & EKS</li>
-        <li>GitHub Actions CI/CD</li>
-        <li>Ansible Hardening</li>
+        <li>Kubernetes & Amazon EKS</li>
+        <li>GitHub Actions & Automated Rollbacks</li>
+        <li>Ansible CIS Server Hardening</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -72,6 +98,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
         <li>Python (Boto3, Flask, FastAPI)</li>
         <li>Bash & PowerShell Scripting</li>
         <li>SQL & Query Optimization</li>
+        <li>Prometheus, Grafana, Loki, CloudWatch</li>
         <li>Wireshark, VPC Flow Logs, Nmap</li>
       </ul>
     </td>
@@ -86,7 +113,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/KoshaG0hil/Automated-IAM-Governance-Engine">Automated IAM Governance & Drift Detection</a></h3>
-      <p>Continuous IAM governance platform evaluating roles & policies against least-privilege baselines. Features 14+ privilege escalation signatures, compound anomaly scoring, real-time CloudTrail SNS alerts, and interactive audit dashboards.</p>
+      <p>Continuous IAM governance platform evaluating roles & policies against least-privilege baselines. Features 14+ privilege escalation signatures, compound anomaly scoring, AI triage queue routing, real-time CloudTrail SNS alerts, and interactive audit dashboards.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-IAM%20%7C%20EventBridge%20%7C%20Lambda-orange?style=flat-square" alt="AWS"/>
         <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square" alt="Python"/>
