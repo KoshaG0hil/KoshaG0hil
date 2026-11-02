@@ -29,7 +29,7 @@
 
 I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experience designing, hardening, and automating multi-cloud architectures. My work centers on **Zero-Trust infrastructure**, **IAM least-privilege governance**, **Policy-as-Code**, and **automated continuous compliance**.
 
-- 🔭 **Current Focus**: Architecting self-healing infrastructure, Shift-Left DevSecOps gates, and AI-accelerated security triage workflows.
+- 🔭 **Current Focus**: Architecting self-healing infrastructure, Shift-Left DevSecOps gates, Confidential Computing, and AI-accelerated security triage workflows.
 - ⚙️ **Production Experience**: Hands-on ownership of production AWS infrastructure, Kubernetes workloads, and observability stacks for a **HIPAA-regulated healthcare platform** (supporting zero-downtime blue/green cutovers for 400-500 daily eRx transactions).
 - 🧱 **Security Engineering Mindset**: Replacing fragile manual checklists with codified, auditable security guardrails using **Terraform**, **Open Policy Agent (OPA Rego)**, **Checkov**, **EventBridge**, and **Cloud Run/Lambda**.
 - 🎓 **Education & Certifications**: 
@@ -67,7 +67,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
     <td width="25%" valign="top">
       <h4>☁️ Cloud Platforms</h4>
       <ul>
-        <li>AWS (ECS Fargate, Lambda, S3, IAM, CloudTrail, EventBridge, VPC, ALB, WAF, GuardDuty, KMS, RDS)</li>
+        <li>AWS (ECS Fargate, Lambda, S3, IAM, CloudTrail, EventBridge, VPC, ALB, WAF, GuardDuty, KMS, RDS, Route 53 ARC)</li>
         <li>Google Cloud (Cloud Run, GCS, Eventarc, Pub/Sub, Firestore)</li>
       </ul>
     </td>
@@ -77,16 +77,16 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
         <li>IAM Least Privilege & PrivEsc Analysis</li>
         <li>CIS AWS Foundations Benchmarks</li>
         <li>Policy-as-Code (OPA Rego, Checkov)</li>
+        <li>Supply Chain Security (SLSA v3, Sigstore)</li>
+        <li>Confidential Compute (AWS Nitro Enclaves)</li>
         <li>SAST & Secrets (Bandit, Trivy, Gitleaks)</li>
-        <li>ClamAV Malware Scanning</li>
-        <li>HIPAA & NIST CSF Controls</li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <h4>🚀 DevOps & Containers</h4>
       <ul>
         <li>Terraform (Modular IaC)</li>
-        <li>Docker & Container Sandboxing</li>
+        <li>Docker & eBPF Sandboxing</li>
         <li>Kubernetes & Amazon EKS</li>
         <li>GitHub Actions & Automated Rollbacks</li>
         <li>Ansible CIS Server Hardening</li>
@@ -107,9 +107,53 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
 
 ---
 
-### 🌟 Flagship Cloud Security Projects
+### 🌟 Flagship Cloud & DevSecOps Engineering Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/KoshaG0hil/Zero-Trust-Supply-Chain-eBPF-Sentinel">Zero-Trust Supply Chain eBPF Sentinel</a></h3>
+      <p>Kernel-level software supply chain security engine that intercepts build-time container syscalls via Linux eBPF, detects compromised dependencies, emits SLSA Level 3 in-toto cryptographic provenance statements, and enforces Sigstore Cosign keyless admission gates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Security-eBPF%20Kernel%20Sandbox-brightgreen?style=flat-square" alt="eBPF"/>
+        <img src="https://img.shields.io/badge/Supply_Chain-SLSA%20Level%203-blue?style=flat-square" alt="SLSA"/>
+        <img src="https://img.shields.io/badge/Signature-Sigstore%20Cosign-purple?style=flat-square" alt="Cosign"/>
+        <img src="https://img.shields.io/badge/Python-3.11+-orange?style=flat-square" alt="Python"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/KoshaG0hil/AWS-Nitro-Enclave-Confidential-Compute-Vault">Nitro Enclaves Confidential Compute Vault</a></h3>
+      <p>Zero-trust hardware memory isolation vault leveraging AWS Nitro Enclaves, cryptographic attestation document parsing (PCR0-2 measurements), AWS KMS <code>RecipientAttestation</code> policy decryption, and clean-room multiparty differential privacy analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-Nitro%20Enclaves-FF9900?style=flat-square" alt="AWS Nitro"/>
+        <img src="https://img.shields.io/badge/Cryptography-COSE%20%2F%20CBOR%20Attestation-blue?style=flat-square" alt="COSE"/>
+        <img src="https://img.shields.io/badge/Isolation-KMS%20RecipientAttestation-red?style=flat-square" alt="KMS"/>
+        <img src="https://img.shields.io/badge/Privacy-Clean%20Room%20Differential%20Privacy-darkgreen?style=flat-square" alt="Clean Room"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/KoshaG0hil/Carbon-Aware-Autonomous-Cloud-Scheduler">Carbon-Aware Autonomous Cloud Scheduler</a></h3>
+      <p>GreenOps optimization scheduler integrating real-time regional electrical grid carbon intensity telemetry (Electricity Maps / WattTime), AWS Spot market cost economics, and Pareto multi-objective optimization to minimize Scope 2 emissions by 30-65%.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GreenOps-Grid%20Carbon%20Intensity-brightgreen?style=flat-square" alt="GreenOps"/>
+        <img src="https://img.shields.io/badge/FinOps-AWS%20Spot%20Economics-orange?style=flat-square" alt="Spot"/>
+        <img src="https://img.shields.io/badge/Optimization-Pareto%20Multi--Objective-blue?style=flat-square" alt="Pareto"/>
+        <img src="https://img.shields.io/badge/Sustainability-Scope%202%20Emissions-darkgreen?style=flat-square" alt="Emissions"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/KoshaG0hil/Multi-Region-ActiveActive-Disaster-Recovery-Mesh">Multi-Region Active-Active DR Mesh</a></h3>
+      <p>Tier-0 enterprise disaster recovery framework on AWS featuring sub-second traffic shifting with Route 53 Application Recovery Controller (ARC), continuous DynamoDB Global Tables replication latency telemetry, and automated chaos blackout fault injection with RTO &lt; 5s and RPO = 0.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-Route%2053%20ARC-orange?style=flat-square" alt="ARC"/>
+        <img src="https://img.shields.io/badge/Storage-DynamoDB%20Global%20Tables-blue?style=flat-square" alt="DynamoDB"/>
+        <img src="https://img.shields.io/badge/Reliability-RTO%20%3C%205s%20%7C%20RPO%200ms-brightgreen?style=flat-square" alt="RTO RPO"/>
+        <img src="https://img.shields.io/badge/Chaos-Fault%20Injection-red?style=flat-square" alt="Chaos"/>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/KoshaG0hil/Autonomous-AI-Cloud-RedTeam-Chaos-Agent">Autonomous AI Cloud Red-Team & Chaos Engine</a></h3>
@@ -173,26 +217,6 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
         <img src="https://img.shields.io/badge/AWS-SSM%20Endpoints-orange?style=flat-square" alt="AWS SSM"/>
         <img src="https://img.shields.io/badge/Security-CIS_Benchmark-darkgreen?style=flat-square" alt="CIS"/>
         <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square" alt="Terraform"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📡 <a href="https://github.com/KoshaG0hil/Network-Traffic-Analyzer">Real-Time VPC Flow Logs Traffic Analyzer</a></h3>
-      <p>Network security inspection engine analyzing AWS VPC Flow Logs for unauthorized lateral movement, port scanning signatures, and anomalous data exfiltration patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AWS-VPC_Flow_Logs-FF9900?style=flat-square" alt="VPC"/>
-        <img src="https://img.shields.io/badge/Python-Packet_Analytics-blue?style=flat-square" alt="Python"/>
-        <img src="https://img.shields.io/badge/Security-Threat_Detection-red?style=flat-square" alt="Threat Detection"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://samya.online">SAMYA — Health Management Ecosystem</a></h3>
-      <p>Cloud-native healthcare web ecosystem architected with Docker, secure REST APIs, role-based access controls, and data privacy controls aligned with HIPAA and DPDP principles.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Live-samya.online-success?style=flat-square" alt="Live"/>
-        <img src="https://img.shields.io/badge/Compliance-HIPAA%20%2F%20DPDP-lightgrey?style=flat-square" alt="Compliance"/>
-        <img src="https://img.shields.io/badge/Docker-Containers-blue?style=flat-square" alt="Docker"/>
       </p>
     </td>
   </tr>
