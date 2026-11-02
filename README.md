@@ -112,6 +112,28 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/KoshaG0hil/Autonomous-AI-Cloud-RedTeam-Chaos-Agent">Autonomous AI Cloud Red-Team & Chaos Engine</a></h3>
+      <p>Agentic AI adversary emulation engine that autonomously synthesizes multi-hop cloud attack graphs, discovers lateral movement paths to crown jewels, scores blast radius, and auto-generates self-healing Terraform code.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Agent-ReAct%20Loop-red?style=flat-square" alt="AI Agent"/>
+        <img src="https://img.shields.io/badge/Graph-NetworkX-blue?style=flat-square" alt="NetworkX"/>
+        <img src="https://img.shields.io/badge/MITRE-ATT%26CK%20Cloud-orange?style=flat-square" alt="MITRE ATT&CK"/>
+        <img src="https://img.shields.io/badge/IaC-Terraform%20Self--Healing-purple?style=flat-square" alt="Terraform"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚛️ <a href="https://github.com/KoshaG0hil/Post-Quantum-Cloud-Cryptography-Sentinel">Post-Quantum Cloud Cryptography Sentinel</a></h3>
+      <p>Automated quantum risk discovery engine evaluating AWS CloudFront, ALB, KMS, and S3 against NIST FIPS 203 (ML-KEM) standards. Computes Quantum Vulnerability Index (QVI) against HNDL attacks and generates hybrid PQC Terraform migrations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NIST-FIPS%20203%20ML--KEM-purple?style=flat-square" alt="NIST PQC"/>
+        <img src="https://img.shields.io/badge/AWS-KMS%20%7C%20CloudFront%20%7C%20S3-orange?style=flat-square" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Threat-HNDL%20Defense-red?style=flat-square" alt="HNDL"/>
+        <img src="https://img.shields.io/badge/Security-CNSA%202.0-brightgreen?style=flat-square" alt="CNSA"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/KoshaG0hil/Automated-IAM-Governance-Engine">Automated IAM Governance & Drift Detection</a></h3>
       <p>Continuous IAM governance platform evaluating roles & policies against least-privilege baselines. Features 14+ privilege escalation signatures, compound anomaly scoring, AI triage queue routing, real-time CloudTrail SNS alerts, and interactive audit dashboards.</p>
       <p>
