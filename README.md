@@ -1,8 +1,8 @@
 <div align="center">
 
   <!-- Dynamic Typing Banner -->
-  <a href="https://linkedin.com/in/koshagohil">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=818cf8&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Kosha+Rajesh+Gohil;Cloud+Security+%26+DevSecOps+Engineer;Infrastructure+Security+%26+SRE+Specialist;Zero-Trust+%C2%B7+Confidential+Compute+%C2%B7+eBPF;AWS+Solutions+Architect+%26+Security+Specialty" alt="Typing Banner" />
+  <a href="https://linkedin.com/in/kosha-gohil">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=818cf8&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Kosha+Rajesh+Gohil;Cloud+Security+%26+DevSecOps+Engineer;AWS+Solutions+Architect+%C2%B7+CompTIA+Security%2B;HashiCorp+Terraform+Associate+Certified;Zero-Trust+%C2%B7+Confidential+Compute+%C2%B7+eBPF" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -12,19 +12,20 @@
 
   <!-- Social & Portfolio Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/koshagohil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://linkedin.com/in/kosha-gohil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/KoshaG0hil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
-  <!-- Certifications Pill Row -->
+  <!-- Interactive Verified Certifications Pill Row -->
   <p align="center">
-    <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA"/>
-    <img src="https://img.shields.io/badge/AWS-Security_Specialty-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Security"/>
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B_(SY0--701)-D8232A?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
-    <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-    <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA"/>
+    <a href="https://www.credly.com/badges/cb4d6acb-194c-4063-899f-4cd820dcb709" target="_blank"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA"/></a>
+    <a href="https://www.credly.com/badges/c25e340d-71ff-49e8-b856-a89746e71aad/public_url" target="_blank"><img src="https://img.shields.io/badge/CompTIA-Security%2B_(SY0--701)-D8232A?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Security+"/></a>
+    <a href="https://www.credly.com/badges/360e87b8-3e50-46df-b201-7d9566aff674" target="_blank"><img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate_(004)-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/></a>
+    <a href="https://www.credly.com/badges/c145c41f-32ca-4bd2-afe9-75201b80907e/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS CCP"/></a>
+    <a href="https://www.credly.com/badges/32eb3db3-b2d2-4c2c-acbd-f106d589cbaa/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/(ISC)²-Candidate-008080?style=flat-square&logo=isc2&logoColor=white" alt="ISC2"/></a>
+    <a href="https://www.linkedin.com/in/kosha-gohil/details/certifications/" target="_blank"><img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Data Analytics"/></a>
   </p>
 
 </div>
@@ -39,7 +40,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of production exper
 - ⚙️ **Production Ownership**: Hands-on management of production AWS infrastructure, containerized Kubernetes microservices, and distributed observability stacks for a **HIPAA-regulated healthcare platform** (supporting zero-downtime blue/green cutovers for 400-500 daily eRx transactions).
 - 🧱 **Security Engineering Mindset**: Eliminating manual audit checklists in favor of codified, automated guardrails using **Terraform**, **Open Policy Agent (OPA Rego)**, **Checkov**, **EventBridge**, and **Cloud Run / Lambda**.
 - 🎓 **Education**:
-  - **M.S. in Computer Science** — Pace University, New York
+  - **M.S. in Computer Science** — Pace University, New York (GPA: 3.91 / 4.0)
   - **B.E. in Computer Engineering** — Savitribai Phule Pune University
 
 ---
@@ -264,13 +265,26 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of production exper
 
 ### 📜 Verified Industry Certifications
 
-| Credential Name | Issuing Authority | Verification Status | Credential Link |
-|---|---|:---:|:---:|
-| **AWS Certified Solutions Architect – Associate** | Amazon Web Services (AWS) | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
-| **AWS Certified Security – Specialty** | Amazon Web Services (AWS) | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
-| **CompTIA Security+ (SY0-701)** | CompTIA | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
-| **HashiCorp Certified: Terraform Associate** | HashiCorp | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
-| **Cisco Certified Network Associate (CCNA)** | Cisco | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
+| Credential Name | Issuing Authority | Credential / Validation ID | Status & Validity | Official Credential Links |
+|---|---|:---:|:---:|:---:|
+| **AWS Certified Solutions Architect – Associate** | Amazon Web Services (AWS) | `681d922017254335a58f62b780d03ad5` | `[ACTIVE]` (Aug 2025 – Aug 2028) | [Verify on Credly](https://www.credly.com/badges/cb4d6acb-194c-4063-899f-4cd820dcb709) · [AWS Verification Portal](https://aws.amazon.com/verification) |
+| **CompTIA Security+ (SY0-701)** | CompTIA | `COMP001022563364` · `59C3SGQYVNB417WJ` | `[ACTIVE]` (Jun 2025 – Jun 2028) | [Verify on Credly](https://www.credly.com/badges/c25e340d-71ff-49e8-b856-a89746e71aad/public_url) · [CompTIA Verification Portal](https://verify.comptia.org) |
+| **HashiCorp Certified: Terraform Associate (004)** | HashiCorp | `360e87b8-3e50-46df-b201-7d9566aff674` | `[ACTIVE]` (Jun 2026 – Jun 2028) | [Verify on Credly](https://www.credly.com/badges/360e87b8-3e50-46df-b201-7d9566aff674) |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) | `0786b30c78ba4804a3e1d693aa1abc99` | `[ACTIVE]` (Jul 2024 – Jul 2027) | [Verify on Credly](https://www.credly.com/badges/c145c41f-32ca-4bd2-afe9-75201b80907e/public_url) · [AWS Verification Portal](https://aws.amazon.com/verification) |
+| **(ISC)² Candidate** | ISC2 | `32eb3db3-b2d2-4c2c-acbd-f106d589cbaa` | `[VERIFIED]` | [Verify on Credly](https://www.credly.com/badges/32eb3db3-b2d2-4c2c-acbd-f106d589cbaa/linked_in_profile) |
+| **Google Data Analytics Professional** | Google | Professional Certificate | `[COMPLETED]` | [View on LinkedIn](https://www.linkedin.com/in/kosha-gohil/details/certifications/) |
+
+<details>
+<summary><strong>🏢 Enterprise Cybersecurity & Engineering Simulations (Click to Expand)</strong></summary>
+
+<br/>
+
+- 🛡️ **AIG – Shields Up: Cybersecurity Job Simulation** (Forage) · Credential ID: `8RyZXv72aNJfNxPdc` · [Verify Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_irKpnHY26SW7QNPxZ_1706391191431_completion_certificate.pdf)
+- ☁️ **Verizon – Cloud Computing Job Simulation** (Forage) · Credential ID: `irKpnHY26SW7QNPxZ` · [Verify Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Verizon%20Communications%20Inc./aNJGnRtgfiK5fQqcR_Verizon_irKpnHY26SW7QNPxZ_1696368998823_completion_certificate.pdf)
+- 💳 **Mastercard – CyberSecurity Experience Program** (Forage) · Credential ID: `xRwFy5WughDQZbbg9` · [Verify Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_xNFGqNYshbffXnE5c_1673813729672_completion_certificate.pdf)
+- 📡 **Telstra – Cyber Security Experience Program** (Forage) · Credential ID: `wKj4QRWT6kmvkscrx` · [Verify Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra/RNhbu8QnDzthwynEf_Telstra_xNFGqNYshbffXnE5c_1673811533972_completion_certificate.pdf)
+
+</details>
 
 ---
 
@@ -280,7 +294,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of production exper
   <p>Available for Full-time roles across the United States · Open to Relocation & Remote</p>
 
   <p>
-    <a href="https://linkedin.com/in/koshagohil"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+    <a href="https://linkedin.com/in/kosha-gohil"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
     <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kosha"/></a>
     <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Explore_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/></a>
   </p>
