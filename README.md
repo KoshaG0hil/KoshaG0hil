@@ -1,22 +1,28 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm <span style="color:#6366f1;">Kosha Rajesh Gohil</span></h1>
-  
-  <p align="center">
-    <strong>Cloud & DevSecOps Engineer · Infrastructure Security & SRE Specialist</strong><br/>
-    <em>New York, USA</em>
-  </p>
+  <!-- Dynamic Typing Banner -->
+  <a href="https://linkedin.com/in/koshagohil">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=818cf8&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Kosha+Rajesh+Gohil;Cloud+Security+%26+DevSecOps+Engineer;Infrastructure+Security+%26+SRE+Specialist;Zero-Trust+%C2%B7+Confidential+Compute+%C2%B7+eBPF;AWS+Solutions+Architect+%26+Security+Specialty" alt="Typing Banner" />
+  </a>
 
   <p align="center">
-    <a href="https://linkedin.com/in/koshagohil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-    <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <strong>Architecting Zero-Trust Multi-Cloud Systems · Policy-as-Code · Autonomous Resilience · GreenOps</strong><br/>
+    <em>📍 New York City Metropolitan Area, USA</em>
   </p>
 
+  <!-- Social & Portfolio Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/koshagohil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/KoshaG0hil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
+
+  <!-- Certifications Pill Row -->
   <p align="center">
     <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA"/>
     <img src="https://img.shields.io/badge/AWS-Security_Specialty-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Security"/>
-    <img src="https://img.shields.io/badge/CompTIA-Security+-D8232A?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B_(SY0--701)-D8232A?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
     <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
     <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA"/>
   </p>
@@ -25,132 +31,151 @@
 
 ---
 
-### 🛡️ About Me
+### 🛡️ Executive Profile & Engineering DNA
 
-I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experience designing, hardening, and automating multi-cloud architectures. My work centers on **Zero-Trust infrastructure**, **IAM least-privilege governance**, **Policy-as-Code**, and **automated continuous compliance**.
+I am a **Cloud Security & DevSecOps Engineer** with 2+ years of production experience designing, hardening, and automating multi-cloud architectures across **AWS** and **Google Cloud**. My engineering philosophy bridges rigorous cryptographic zero-trust controls with pragmatic high-velocity CI/CD delivery:
 
-- 🔭 **Current Focus**: Architecting self-healing infrastructure, Shift-Left DevSecOps gates, Confidential Computing, and AI-accelerated security triage workflows.
-- ⚙️ **Production Experience**: Hands-on ownership of production AWS infrastructure, Kubernetes workloads, and observability stacks for a **HIPAA-regulated healthcare platform** (supporting zero-downtime blue/green cutovers for 400-500 daily eRx transactions).
-- 🧱 **Security Engineering Mindset**: Replacing fragile manual checklists with codified, auditable security guardrails using **Terraform**, **Open Policy Agent (OPA Rego)**, **Checkov**, **EventBridge**, and **Cloud Run/Lambda**.
-- 🎓 **Education & Certifications**: 
+- 🔭 **Current Focus**: Hardware memory isolation (**AWS Nitro Enclaves**), build-time supply chain integrity (**Linux eBPF + SLSA v3**), active-active disaster recovery (**Route 53 ARC**), and sustainable cloud computing (**GreenOps**).
+- ⚙️ **Production Ownership**: Hands-on management of production AWS infrastructure, containerized Kubernetes microservices, and distributed observability stacks for a **HIPAA-regulated healthcare platform** (supporting zero-downtime blue/green cutovers for 400-500 daily eRx transactions).
+- 🧱 **Security Engineering Mindset**: Eliminating manual audit checklists in favor of codified, automated guardrails using **Terraform**, **Open Policy Agent (OPA Rego)**, **Checkov**, **EventBridge**, and **Cloud Run / Lambda**.
+- 🎓 **Education**:
   - **M.S. in Computer Science** — Pace University, New York
   - **B.E. in Computer Engineering** — Savitribai Phule Pune University
-  - AWS Certified Solutions Architect (Associate) · AWS Certified Security (Specialty) · CompTIA Security+ · HashiCorp Terraform Associate · Cisco CCNA
 
 ---
 
-### 💼 What I Bring to an Engineering Team
+### 💼 Engineering Core Pillars
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🔒 Cloud Security & Governance</h4>
-      <p>Automated IAM least-privilege baselines, 14+ privilege escalation signatures, continuous CloudTrail drift detection, CIS AWS Foundations Benchmark compliance, and zero-standing privilege architectures.</p>
+      <h4>🔒 Zero-Trust & Identity Governance</h4>
+      <p>Automated IAM least-privilege baselines, 14+ privilege escalation signatures, continuous CloudTrail drift detection, CIS AWS Foundations Benchmark compliance, and zero-standing privilege (ZSP) ephemeral credential brokers.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>🚀 DevSecOps & CI/CD</h4>
-      <p>Multi-stage automated pipelines (GitHub Actions, Jenkins) embedding SAST (Bandit), secret leak detection (Gitleaks), container CVE auditing (Trivy), and automated canary rollback controllers with &lt; 2.0s MTTR.</p>
+      <h4>🚀 DevSecOps & Automated Safety Gates</h4>
+      <p>Multi-stage CI/CD pipelines embedding SAST (Bandit), secret leak detection (Gitleaks), container CVE auditing (Trivy), and automated canary rollback controllers with sub-second MTTR.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>📈 Reliability & Observability (SRE)</h4>
-      <p>Production SLI/SLO definitions, error budget governance, multi-AZ high availability, and Prometheus / Grafana / Loki / CloudWatch telemetry reducing incident MTTR by ~40%.</p>
+      <h4>⚡ Reliability, SRE & Observability</h4>
+      <p>Production SLI/SLO definitions, error budget governance, multi-region active-active architectures with RTO &lt; 5s, and Prometheus / Grafana / Loki / CloudWatch telemetry reducing incident MTTR by ~40%.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Technical Competencies & Toolchain
 
-<table align="center" width="100%">
+<table>
   <tr>
-    <td width="25%" valign="top">
-      <h4>☁️ Cloud Platforms</h4>
-      <ul>
-        <li>AWS (ECS Fargate, Lambda, S3, IAM, CloudTrail, EventBridge, VPC, ALB, WAF, GuardDuty, KMS, RDS, Route 53 ARC)</li>
-        <li>Google Cloud (Cloud Run, GCS, Eventarc, Pub/Sub, Firestore)</li>
-      </ul>
+    <td width="20%" valign="top"><strong>☁️ Cloud Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="ECS"/>
+      <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda"/>
+      <img src="https://img.shields.io/badge/S3_|_KMS-FF9900?style=flat-square&logo=amazons3&logoColor=white" alt="S3"/>
+      <img src="https://img.shields.io/badge/Route_53_ARC-FF9900?style=flat-square&logo=amazonroute53&logoColor=white" alt="Route53"/>
+      <img src="https://img.shields.io/badge/DynamoDB_Global_Tables-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+      <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run"/>
     </td>
-    <td width="25%" valign="top">
-      <h4>🔒 Security & Governance</h4>
-      <ul>
-        <li>IAM Least Privilege & PrivEsc Analysis</li>
-        <li>CIS AWS Foundations Benchmarks</li>
-        <li>Policy-as-Code (OPA Rego, Checkov)</li>
-        <li>Supply Chain Security (SLSA v3, Sigstore)</li>
-        <li>Confidential Compute (AWS Nitro Enclaves)</li>
-        <li>SAST & Secrets (Bandit, Trivy, Gitleaks)</li>
-      </ul>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><strong>🔒 Security & Governance</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_Nitro_Enclaves-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Nitro"/>
+      <img src="https://img.shields.io/badge/Linux_eBPF-1904DA?style=flat-square&logo=linux&logoColor=white" alt="eBPF"/>
+      <img src="https://img.shields.io/badge/SLSA_Level_3-4285F4?style=flat-square&logo=google&logoColor=white" alt="SLSA"/>
+      <img src="https://img.shields.io/badge/Sigstore_Cosign-4B32C3?style=flat-square&logo=linuxfoundation&logoColor=white" alt="Cosign"/>
+      <img src="https://img.shields.io/badge/OPA_Rego-4B5B66?style=flat-square&logo=openpolicyagent&logoColor=white" alt="OPA"/>
+      <img src="https://img.shields.io/badge/Checkov_|_Trivy-007ACC?style=flat-square" alt="Trivy"/>
+      <img src="https://img.shields.io/badge/Gitleaks_|_Bandit-E53935?style=flat-square" alt="Gitleaks"/>
+      <img src="https://img.shields.io/badge/CIS_Benchmarks-4CAF50?style=flat-square" alt="CIS"/>
+      <img src="https://img.shields.io/badge/HIPAA_Compliance-0288D1?style=flat-square" alt="HIPAA"/>
     </td>
-    <td width="25%" valign="top">
-      <h4>🚀 DevOps & Containers</h4>
-      <ul>
-        <li>Terraform (Modular IaC)</li>
-        <li>Docker & eBPF Sandboxing</li>
-        <li>Kubernetes & Amazon EKS</li>
-        <li>GitHub Actions & Automated Rollbacks</li>
-        <li>Ansible CIS Server Hardening</li>
-      </ul>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><strong>🚀 DevOps & Containers</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Terraform_(IaC)-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Kubernetes_(EKS)-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/Cilium_eBPF-F05032?style=flat-square" alt="Cilium"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GH Actions"/>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
     </td>
-    <td width="25%" valign="top">
-      <h4>💻 Languages & Tooling</h4>
-      <ul>
-        <li>Python (Boto3, Flask, FastAPI)</li>
-        <li>Bash & PowerShell Scripting</li>
-        <li>SQL & Query Optimization</li>
-        <li>Prometheus, Grafana, Loki, CloudWatch</li>
-        <li>Wireshark, VPC Flow Logs, Nmap</li>
-      </ul>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><strong>📈 Telemetry & SRE</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OTel"/>
+      <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
+      <img src="https://img.shields.io/badge/VPC_Flow_Logs-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="VPC"/>
+      <img src="https://img.shields.io/badge/Amazon_Athena-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Athena"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><strong>💻 Programming & Tooling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Boto3_AWS_SDK-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Boto3"/>
+      <img src="https://img.shields.io/badge/FastAPI_|_Flask-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Bash_|_PowerShell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌟 Flagship Cloud & DevSecOps Engineering Projects
+### 🌟 Featured Flagship Cloud Architectures
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/KoshaG0hil/Zero-Trust-Supply-Chain-eBPF-Sentinel">Zero-Trust Supply Chain eBPF Sentinel</a></h3>
-      <p>Kernel-level software supply chain security engine that intercepts build-time container syscalls via Linux eBPF, detects compromised dependencies, emits SLSA Level 3 in-toto cryptographic provenance statements, and enforces Sigstore Cosign keyless admission gates.</p>
+      <p>Kernel-level software supply chain security sandbox that intercepts container build-time syscalls via Linux eBPF, detects compromised dependencies, emits SLSA Level 3 in-toto provenance statements, and enforces Sigstore Cosign admission gates.</p>
       <p>
         <img src="https://img.shields.io/badge/Security-eBPF%20Kernel%20Sandbox-brightgreen?style=flat-square" alt="eBPF"/>
-        <img src="https://img.shields.io/badge/Supply_Chain-SLSA%20Level%203-blue?style=flat-square" alt="SLSA"/>
-        <img src="https://img.shields.io/badge/Signature-Sigstore%20Cosign-purple?style=flat-square" alt="Cosign"/>
-        <img src="https://img.shields.io/badge/Python-3.11+-orange?style=flat-square" alt="Python"/>
+        <img src="https://img.shields.io/badge/Provenance-SLSA%20Level%203-blue?style=flat-square" alt="SLSA"/>
+        <img src="https://img.shields.io/badge/Verification-Sigstore%20Cosign-purple?style=flat-square" alt="Cosign"/>
+        <img src="https://img.shields.io/badge/Tests-5%2F5%20Passed-success?style=flat-square" alt="Tests"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/KoshaG0hil/AWS-Nitro-Enclave-Confidential-Compute-Vault">Nitro Enclaves Confidential Compute Vault</a></h3>
-      <p>Zero-trust hardware memory isolation vault leveraging AWS Nitro Enclaves, cryptographic attestation document parsing (PCR0-2 measurements), AWS KMS <code>RecipientAttestation</code> policy decryption, and clean-room multiparty differential privacy analytics.</p>
+      <h3>🔐 <a href="https://github.com/KoshaG0hil/AWS-Nitro-Enclave-Confidential-Compute-Vault">AWS Nitro Enclave Confidential Compute Vault</a></h3>
+      <p>Zero-trust hardware memory isolation vault leveraging AWS Nitro Enclaves, COSE/CBOR cryptographic attestation document validation against PCR0-2 registers, AWS KMS <code>RecipientAttestation</code> policy decryption, and differential privacy clean-room analytics.</p>
       <p>
-        <img src="https://img.shields.io/badge/AWS-Nitro%20Enclaves-FF9900?style=flat-square" alt="AWS Nitro"/>
+        <img src="https://img.shields.io/badge/AWS-Nitro%20Enclaves-FF9900?style=flat-square" alt="Nitro"/>
         <img src="https://img.shields.io/badge/Cryptography-COSE%20%2F%20CBOR%20Attestation-blue?style=flat-square" alt="COSE"/>
-        <img src="https://img.shields.io/badge/Isolation-KMS%20RecipientAttestation-red?style=flat-square" alt="KMS"/>
-        <img src="https://img.shields.io/badge/Privacy-Clean%20Room%20Differential%20Privacy-darkgreen?style=flat-square" alt="Clean Room"/>
+        <img src="https://img.shields.io/badge/KMS-RecipientAttestation-red?style=flat-square" alt="KMS"/>
+        <img src="https://img.shields.io/badge/Privacy-Clean%20Room%20(ε=0.5)-darkgreen?style=flat-square" alt="Privacy"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/KoshaG0hil/Carbon-Aware-Autonomous-Cloud-Scheduler">Carbon-Aware Autonomous Cloud Scheduler</a></h3>
-      <p>GreenOps optimization scheduler integrating real-time regional electrical grid carbon intensity telemetry (Electricity Maps / WattTime), AWS Spot market cost economics, and Pareto multi-objective optimization to minimize Scope 2 emissions by 30-65%.</p>
-      <p>
-        <img src="https://img.shields.io/badge/GreenOps-Grid%20Carbon%20Intensity-brightgreen?style=flat-square" alt="GreenOps"/>
-        <img src="https://img.shields.io/badge/FinOps-AWS%20Spot%20Economics-orange?style=flat-square" alt="Spot"/>
-        <img src="https://img.shields.io/badge/Optimization-Pareto%20Multi--Objective-blue?style=flat-square" alt="Pareto"/>
-        <img src="https://img.shields.io/badge/Sustainability-Scope%202%20Emissions-darkgreen?style=flat-square" alt="Emissions"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/KoshaG0hil/Multi-Region-ActiveActive-Disaster-Recovery-Mesh">Multi-Region Active-Active DR Mesh</a></h3>
-      <p>Tier-0 enterprise disaster recovery framework on AWS featuring sub-second traffic shifting with Route 53 Application Recovery Controller (ARC), continuous DynamoDB Global Tables replication latency telemetry, and automated chaos blackout fault injection with RTO &lt; 5s and RPO = 0.</p>
+      <p>Tier-0 enterprise disaster recovery framework on AWS featuring sub-second traffic shifting via Route 53 Application Recovery Controller (ARC), continuous DynamoDB Global Tables replication latency telemetry, and chaos blackout fault injection with RTO &lt; 5s and RPO = 0.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-Route%2053%20ARC-orange?style=flat-square" alt="ARC"/>
         <img src="https://img.shields.io/badge/Storage-DynamoDB%20Global%20Tables-blue?style=flat-square" alt="DynamoDB"/>
-        <img src="https://img.shields.io/badge/Reliability-RTO%20%3C%205s%20%7C%20RPO%200ms-brightgreen?style=flat-square" alt="RTO RPO"/>
-        <img src="https://img.shields.io/badge/Chaos-Fault%20Injection-red?style=flat-square" alt="Chaos"/>
+        <img src="https://img.shields.io/badge/SLA-RTO%20%3C%205s%20%7C%20RPO%200ms-brightgreen?style=flat-square" alt="SLA"/>
+        <img src="https://img.shields.io/badge/Resilience-Chaos%20Fault%20Injection-red?style=flat-square" alt="Chaos"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/KoshaG0hil/Carbon-Aware-Autonomous-Cloud-Scheduler">Carbon-Aware Autonomous Cloud Scheduler</a></h3>
+      <p>GreenOps optimization scheduler integrating real-time regional electrical grid carbon intensity telemetry (gCO2e/kWh), AWS Spot market cost economics, and Pareto multi-objective optimization to minimize Scope 2 emissions by 30-65% without latency impact.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GreenOps-Grid%20Carbon%20Telemetry-brightgreen?style=flat-square" alt="GreenOps"/>
+        <img src="https://img.shields.io/badge/FinOps-AWS%20Spot%20Economics-orange?style=flat-square" alt="Spot"/>
+        <img src="https://img.shields.io/badge/Optimization-Pareto%20Multi--Objective-blue?style=flat-square" alt="Pareto"/>
+        <img src="https://img.shields.io/badge/ESG-Scope%202%20Emissions-darkgreen?style=flat-square" alt="Emissions"/>
       </p>
     </td>
   </tr>
@@ -161,7 +186,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
       <p>
         <img src="https://img.shields.io/badge/AI_Agent-ReAct%20Loop-red?style=flat-square" alt="AI Agent"/>
         <img src="https://img.shields.io/badge/Graph-NetworkX-blue?style=flat-square" alt="NetworkX"/>
-        <img src="https://img.shields.io/badge/MITRE-ATT%26CK%20Cloud-orange?style=flat-square" alt="MITRE ATT&CK"/>
+        <img src="https://img.shields.io/badge/MITRE-ATT%26CK%20Cloud-orange?style=flat-square" alt="MITRE"/>
         <img src="https://img.shields.io/badge/IaC-Terraform%20Self--Healing-purple?style=flat-square" alt="Terraform"/>
       </p>
     </td>
@@ -169,10 +194,10 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
       <h3>⚛️ <a href="https://github.com/KoshaG0hil/Post-Quantum-Cloud-Cryptography-Sentinel">Post-Quantum Cloud Cryptography Sentinel</a></h3>
       <p>Automated quantum risk discovery engine evaluating AWS CloudFront, ALB, KMS, and S3 against NIST FIPS 203 (ML-KEM) standards. Computes Quantum Vulnerability Index (QVI) against HNDL attacks and generates hybrid PQC Terraform migrations.</p>
       <p>
-        <img src="https://img.shields.io/badge/NIST-FIPS%20203%20ML--KEM-purple?style=flat-square" alt="NIST PQC"/>
+        <img src="https://img.shields.io/badge/NIST-FIPS%20203%20ML--KEM-purple?style=flat-square" alt="NIST"/>
         <img src="https://img.shields.io/badge/AWS-KMS%20%7C%20CloudFront%20%7C%20S3-orange?style=flat-square" alt="AWS"/>
         <img src="https://img.shields.io/badge/Threat-HNDL%20Defense-red?style=flat-square" alt="HNDL"/>
-        <img src="https://img.shields.io/badge/Security-CNSA%202.0-brightgreen?style=flat-square" alt="CNSA"/>
+        <img src="https://img.shields.io/badge/Standard-CNSA%202.0-brightgreen?style=flat-square" alt="CNSA"/>
       </p>
     </td>
   </tr>
@@ -224,15 +249,42 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of hands-on experie
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Real-Time GitHub Engineering Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoshaG0hil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoshaG0hil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KoshaG0hil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=818cf8&icon_color=f43f5e" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoshaG0hil&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8" alt="Top Languages" height="165"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoshaG0hil&theme=tokyonight&hide_border=true&stroke=818cf8&ring=818cf8&fire=f43f5e&currStreakLabel=818cf8" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 📜 Verified Industry Certifications
+
+| Credential Name | Issuing Authority | Verification Status | Credential Link |
+|---|---|:---:|:---:|
+| **AWS Certified Solutions Architect – Associate** | Amazon Web Services (AWS) | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
+| **AWS Certified Security – Specialty** | Amazon Web Services (AWS) | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
+| **CompTIA Security+ (SY0-701)** | CompTIA | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
+| **HashiCorp Certified: Terraform Associate** | HashiCorp | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
+| **Cisco Certified Network Associate (CCNA)** | Cisco | `[ACTIVE]` | [Verify Credential](https://linkedin.com/in/koshagohil) |
 
 ---
 
 <div align="center">
-  <sub>Engineered by <strong>Kosha Gohil</strong> · Open to Cloud Security & DevSecOps Engineering Roles</sub>
+  
+  <h3>🤝 Open to Cloud Security, DevSecOps & SRE Roles</h3>
+  <p>Available for Full-time roles across the United States · Open to Relocation & Remote</p>
+
+  <p>
+    <a href="https://linkedin.com/in/koshagohil"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+    <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kosha"/></a>
+    <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Explore_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/></a>
+  </p>
+
+  <sub>Engineered with precision by <strong>Kosha Gohil</strong> · Continuously automated with GitHub Actions</sub>
+
 </div>
