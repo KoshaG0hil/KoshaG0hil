@@ -15,6 +15,7 @@
     <a href="https://linkedin.com/in/kosha-gohil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://medium.com/@gohilkosha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+    <a href="https://instagram.com/cloudwithkosha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/KoshaG0hil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
@@ -311,6 +312,7 @@ Technical articles and architectural methodologies authored by Kosha Gohil, publ
   <p>
     <a href="https://linkedin.com/in/kosha-gohil"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
     <a href="https://medium.com/@gohilkosha"><img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+    <a href="https://instagram.com/cloudwithkosha"><img src="https://img.shields.io/badge/Follow_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kosha"/></a>
     <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Explore_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/></a>
   </p>
