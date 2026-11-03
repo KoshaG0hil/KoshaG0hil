@@ -14,6 +14,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/kosha-gohil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://medium.com/@gohilkosha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
     <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/KoshaG0hil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
@@ -263,6 +264,20 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of production exper
 
 ---
 
+### ✍️ Technical Publications & Engineering Deep-Dives
+
+Technical articles and architectural methodologies authored by Kosha Gohil, published on **[Medium (@gohilkosha)](https://medium.com/@gohilkosha)**:
+
+| Article Title | Publication | Core Domain | Direct Link |
+|---|---|---|:---:|
+| **Read the Machine: Linux Debugging Skills That Separate Engineers From Restarters** | *Towards AWS* | Linux Kernel, Syscalls (`strace`, `tcpdump`, `lsof`, `/proc`), Forensic Triage | [Read on Medium](https://medium.com/@gohilkosha/read-the-machine-linux-debugging-skills-that-separate-engineers-from-restarters-545e6202299c) |
+| **Reliability Is a Number: A Practitioner’s Guide to SLOs and Error Budgets** | *Medium* | Site Reliability Engineering (SRE), SLIs/SLOs, Error Budget Governance | [Read on Medium](https://medium.com/@gohilkosha) |
+| **Production Linux Server Hardening & Automated Configuration Platform** | *Stackademic* | CIS Benchmark Level 1 & 2, AWS SSM Session Manager, Ansible | [Read on Medium](https://medium.com/@gohilkosha) |
+| **Static Website Hosting on AWS: S3, CloudFront, and CI/CD Explained Simply** | *AWS in Plain English* | CloudFront OAC, S3 Security, Keyless GitHub Actions OIDC | [Read on Medium](https://medium.com/@gohilkosha) |
+| **Jenkins for Beginners: CI/CD Automation Demystified** | *Stackademic* | Declarative Pipelines, Ephemeral Build Agents, Quality Gates | [Read on Medium](https://medium.com/@gohilkosha) |
+
+---
+
 ### 📜 Verified Industry Certifications
 
 | Credential Name | Issuing Authority | Credential / Validation ID | Status & Validity | Official Credential Links |
@@ -295,6 +310,7 @@ I am a **Cloud Security & DevSecOps Engineer** with 2+ years of production exper
 
   <p>
     <a href="https://linkedin.com/in/kosha-gohil"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+    <a href="https://medium.com/@gohilkosha"><img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
     <a href="mailto:gohilkosha19@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kosha"/></a>
     <a href="https://koshag0hil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Explore_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/></a>
   </p>
